@@ -25,6 +25,7 @@
 |---|---|
 | **[SmartOpsDesk](https://github.com/FuzzyLogic112/SmartOpsDesk)** | .NET 8 工单管理系统。工单分类、AI 辅助定级、SLA 时限跟踪、审批流、角色权限，配 SQL Server 与 GitHub Actions CI |
 | **[记住 SafeVault](https://github.com/FuzzyLogic112/remember-Password-Manager)** | 完全离线的 Flutter 密码管理器。SQLCipher AES-256 全盘加密，密钥存于 Android Keystore，零网络权限 |
+| **[xhs-content-workflow](https://github.com/FuzzyLogic112/xhs-content-workflow)** | 内容生产流水线的 Prompt 架构。决策层 / 执行层 / 质检层三层分离，中间用结构化「选题卡」交接——决策阶段的犹豫不会渗进正文 |
 | **[job-hunt-board](https://github.com/FuzzyLogic112/job-hunt-board)** | 给应届生的求职看板。转化漏斗定位卡点、A/B 版回复率对决决定精力配比——**样本不足 10 家时它拒绝给结论** |
 | **[amzrank](https://github.com/FuzzyLogic112/amzrank-web)** | Amazon 榜单抓取 + 趋势看板。Playwright 抓美/日/德/英四站，存历史快照自动算排名变动，推 Supabase 出趋势图 · [在线看板](https://fuzzylogic112.github.io/amzrank-web/) |
 | **[Auto-Data-Pipeline](https://github.com/FuzzyLogic112/Auto-Data-Pipeline)** | GitHub Actions 上的无服务器数据管道，2026 年 5 月上线后一直没停过 |
